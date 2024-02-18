@@ -17,3 +17,4 @@ and push it to new array and join each pushed element and store it to the passwo
 https://github.com/mynameisandreee/Password-Generator
 
 ## Deployed link
+https://mynameisandreee.github.io/Password-Generator/
