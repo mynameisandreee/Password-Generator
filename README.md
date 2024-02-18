@@ -1,7 +1,7 @@
 # Password-Generator
 
 # Pseudo code
-declare generatoin password function
+declare generate password function
 inside the function the function create arrays to store the options for password
 declare new array to store the selected options for password
 ask the user to input the length of the password, minimum 8 characters and maximum 128 characters.
@@ -12,6 +12,9 @@ if the user selected the option, push it to the array that stores all selected o
 after user selected the wanted options, the system alerts the user the selected options 
 select the from the array of all selected options randomly 
 and push it to new array and join each pushed element and store it to the password. 
+
+## Project Screenshot
+![alt text](screenshot.png)
 
 ## Source Code 
 https://github.com/mynameisandreee/Password-Generator
